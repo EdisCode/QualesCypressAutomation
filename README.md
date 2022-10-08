@@ -1,4 +1,4 @@
-# Cypress Automation in Quales Cohort 11
+# Cypress Automation for Quales Cohort 11
 
 The Regression test file under the Integration folder is were tests are written.
 

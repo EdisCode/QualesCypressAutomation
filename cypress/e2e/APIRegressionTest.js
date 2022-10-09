@@ -5,7 +5,7 @@
 describe("Quales Course Management API Regression Test suite", () => {
   context("POST Request tests", () => {
     it("Validate that I can use a POST methodto create a course via Cypress API method", () => {
-      //Test successful login
+      //Test successful post request
       cy.request({
         method: "POST",
         url: "https://notification-service.ishchoolapi.xyz/api/courses/",

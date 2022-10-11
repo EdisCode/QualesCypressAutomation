@@ -10,7 +10,9 @@ module.exports = defineConfig({
   },
   env: {
     username: "ay@mail.com",
+    usernameP: "ayp@mail.com",
     password: "pass1234",
+    apiUrl: "https://notification-service.ishchoolapi.xyz",
   },
   defaultCommandTimeout: 30000,
   pageLoadTimeout: 500000,

@@ -2,7 +2,7 @@
   /* <reference types="cypress" />; */
 }
 
-describe("Quales Course Management Regression Test suite", () => {
+describe("Quales Course Management Regression Test suite for Standard Users", () => {
   beforeEach(() => {
     //Login
     cy.Login({});

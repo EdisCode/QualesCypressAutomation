@@ -1,5 +1,5 @@
 {
-  "name": "QualesAutomation",
+  "name": "quales-automation",
   "version": "1.0.0",
   "description": "End to End automated test for Quales",
   "main": "index.js",
@@ -17,10 +17,10 @@
     "cypress",
     "automation"
   ],
-  "author": "Edikan",
+  "author": "Edikan Edikan",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^10.9.0",
+    "cypress": "^10.10.0",
     "mocha": "^9.0.2",
     "mochawesome": "^7.1.3"
   }
